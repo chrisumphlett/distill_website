@@ -1,18 +1,34 @@
 ---
 title: "Chris Umphlett"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "circle-cropped.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/chris-umphlett/"
+  - label: Twitter
+    url: "https://twitter.com/chrisumphlett"
+  - label: GitHub
+    url: "https://github.com/chrisumphlett"
+  - label: Email
+    url: "mailto:christopher.umphlett@gmail.com"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+*A part of good science is to see what everyone else can see but to think what no one else has ever said* ~ Amos Tversky
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Education
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+**Central Michigan University** | MA, Economics | Aug 2010 - May 2012
 
-```
+**Univ of North Carolina, Chapel Hill** | BS, Business Administration & Minor, Anthropology | Aug 2002 - May 2006
 
+## Career
+
+**TechSmith** | Manager of Data Analysis and Data Privacy | Dec 2019 - Present
+
+**Consumers Energy** | Data Scientist | Oct 2018 - Dec 2019
+
+**Jackson National Life** | Sr Operations Data Analyst | Mar 2012 - Sept 2018
+
+**Kellogg's** | Intern, Sales Analytics | May 2011 - Mar 2012

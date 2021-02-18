@@ -1,12 +1,11 @@
-name: "distill_website"
-title: "Chris Umphlett"
+name: "."
+title: "ChrisUmphlett.com"
 description: |
-  Chris Umphlett
-output_dir: "."
+  ChrisUmphlett.com
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
 output: distill::distill_article
+theme: postcards.css
