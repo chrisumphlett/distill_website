@@ -1,6 +1,6 @@
 ---
 title: "Chris Umphlett"
-image: "2022-nov circle.png"
+image: "2022-nov-circle.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/chris-umphlett/"
