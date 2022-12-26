@@ -15,8 +15,7 @@ output:
 site: distill::distill_website
 ---
 
-
-*A part of good science is to see what everyone else can see but to think what no one else has ever said* ~ Amos Tversky
+*A part of good science is to see what everyone else can see but to think what no one else has ever said* \~ Amos Tversky
 
 ## Bio
 
@@ -24,27 +23,26 @@ Chris is the Manager of Data Analysis and Data Privacy at [TechSmith](https://ww
 
 Chris is the author of several `R` packages hosted on CRAN:
 
-* [marketr](https://cran.r-project.org/web/packages/marketr/index.html)
-* [ibmAcousticR](https://cran.r-project.org/web/packages/ibmAcousticR/index.html)
-* [reveneraR](https://cran.r-project.org/web/packages/reveneraR/index.html)
-* [zdeskR](https://cran.r-project.org/web/packages/zdeskR/index.html)
-* [zoomr](https://github.com/chrisumphlett/zoomr)
+-   [marketr](https://cran.r-project.org/web/packages/marketr/index.html)
+-   [ibmAcousticR](https://cran.r-project.org/web/packages/ibmAcousticR/index.html)
+-   [reveneraR](https://cran.r-project.org/web/packages/reveneraR/index.html)
+-   [zdeskR](https://cran.r-project.org/web/packages/zdeskR/index.html)
+-   [zoomr](https://github.com/chrisumphlett/zoomr)
 
-Chris lives in East Lansing, MI with his wife and four young children. 
-
+Chris lives in East Lansing, MI with his wife and four young children.
 
 ## Education
 
-**Central Michigan University** | MA, Economics | Aug 2010 - May 2012
+**Central Michigan University** \| MA, Economics \| Aug 2010 - May 2012
 
-**Univ of North Carolina, Chapel Hill** | BS, Business Administration & Minor, Anthropology | Aug 2002 - May 2006
+**Univ of North Carolina, Chapel Hill** \| BS, Business Administration & Minor, Anthropology \| Aug 2002 - May 2006
 
 ## Career
 
-**TechSmith** | Manager of Data Analysis and Data Privacy | Dec 2019 - Present
+**TechSmith** \| Manager of Data Analysis and Data Privacy \| Dec 2019 - Present
 
-**Consumers Energy** | Data Scientist | Oct 2018 - Dec 2019
+**Consumers Energy** \| Data Scientist \| Oct 2018 - Dec 2019
 
-**Jackson National Life** | Sr Operations Data Analyst | Mar 2012 - Sept 2018
+**Jackson National Life** \| Sr Operations Data Analyst \| Mar 2012 - Sept 2018
 
-**Kellogg's** | Intern, Sales Analytics | May 2011 - Mar 2012
+**Kellogg's** \| Intern, Sales Analytics \| May 2011 - Mar 2012
